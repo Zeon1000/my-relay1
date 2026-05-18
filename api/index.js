@@ -3,4 +3,4 @@ export default function handler(req, res) {
     ok: true,
     message: "API is running"
   });
-}
+}.
