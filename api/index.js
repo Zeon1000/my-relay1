@@ -4,4 +4,4 @@ module.exports = (req, res) => {
     ok: true,
     message: "API is running"
   });
-};
+};.
